@@ -13,6 +13,8 @@ Our project involves the development and implementation of an IoT-based hardware
 
 [https://github.com/harikrishnan0012/magnathon-2-template/blob/main/Sustainable%20Water%20Management_%20Integrating%20Technology%20for%20Enhanced%20Monitoring%20and%20Location%20Tagging.pdf](url)
 
+[Sustainable Water Management_ Integrating Technology for Enhanced Monitoring and Location Tagging.pdf](url)
+
 Also Add the name below.
 
 ## How it Works ?
