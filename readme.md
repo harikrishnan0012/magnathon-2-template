@@ -11,7 +11,8 @@ Our project involves the development and implementation of an IoT-based hardware
 - Abhijith S Nair
 ## Link to product walkthrough
 
-Add your ppt to your repository  
+[https://github.com/harikrishnan0012/magnathon-2-template/blob/main/Sustainable%20Water%20Management_%20Integrating%20Technology%20for%20Enhanced%20Monitoring%20and%20Location%20Tagging.pdf](url)
+
 Also Add the name below.
 
 ## How it Works ?
@@ -20,7 +21,10 @@ Embed video of project demo
 
 
 ## Libraries used
-Library Name - Version
+ESP8266 WiFi 
+blynk IoT 
+WiFi
+
 
 ## How to configure
 Instructions for setting up project
