@@ -10,10 +10,8 @@ Our project involves the development and implementation of an IoT-based hardware
 - Abhijith K Nair
 - Abhijith S Nair
 ## Link to product walkthrough
+https://github.com/harikrishnan0012/magnathon-2-template/blob/09c82ba9132ffcfd039deaa3904f5968089d562c/Sustainable%20Water%20Management_%20Integrating%20Technology%20for%20Enhanced%20Monitoring%20and%20Location%20Tagging.pdf
 
-[https://github.com/harikrishnan0012/magnathon-2-template/blob/main/Sustainable%20Water%20Management_%20Integrating%20Technology%20for%20Enhanced%20Monitoring%20and%20Location%20Tagging.pdf](url)
-
-[Sustainable Water Management_ Integrating Technology for Enhanced Monitoring and Location Tagging.pdf](url)
 
 Also Add the name below.
 
