@@ -20,9 +20,3 @@ ESP8266 WiFi
 Arduino Uno
 Adalo
 blynk IoT 
-
-## How to configure
-Instructions for setting up project
-
-## How to Run
-Instructions for running
