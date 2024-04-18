@@ -12,9 +12,6 @@ Our project involves the development and implementation of an IoT-based hardware
 ## Link to product walkthrough
 https://github.com/harikrishnan0012/magnathon-2-template/blob/09c82ba9132ffcfd039deaa3904f5968089d562c/Sustainable%20Water%20Management_%20Integrating%20Technology%20for%20Enhanced%20Monitoring%20and%20Location%20Tagging.pdf
 
-
-Also Add the name below.
-
 ## How it Works ?
 Explaining the working of project
 Embed video of project demo
@@ -22,9 +19,9 @@ Embed video of project demo
 
 ## Libraries used
 ESP8266 WiFi 
+Arduino Uno
+Adalo
 blynk IoT 
-WiFi
-
 
 ## How to configure
 Instructions for setting up project
